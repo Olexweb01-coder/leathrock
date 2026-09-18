@@ -1,0 +1,583 @@
+{
+  "site": {
+    "name": "Leathrock",
+    "person": "Oluwatimilehin Joshua Adedara",
+    "tagline": "Depth over noise",
+    "bio": "In a world where everything seems ordinary and every space taken, I help intentional individuals uncover their extraordinary way of becoming.",
+    "url": "https://leathrock.com",
+    "phone": "+234 703 842 6682",
+    "phoneRaw": "+2347038426682",
+    "whatsapp": "2347038426682",
+    "email": "adedaratimilehin@gmail.com",
+    "elpreneurGroup": "https://chat.whatsapp.com/JuEzMW8Bf50K54bYRsfjKB?s=cl&p=a&ilr=4",
+    "luminEvent": "https://luminevent.com/events/ba1dc7f6-546c-459f-8f73-6bf3dbb52445"
+  },
+  "about": {
+    "heading": "Faith, growth and strategy — never separated.",
+    "lines": [
+      "Welcome to my corner of the world. My name is Oluwatimilehin Joshua Adedara. I'm the Visionary behind The Leathrock brand — a passionate advocate for personal, professional and spiritual growth, and a creative dedicated to helping others find their path(s) to purpose and achievement.",
+      "With a heart for Jesus and a love for empowering young people, I've founded not one, but two impactful initiatives: Fortes, a hub for general growth and development, and LeathCity, a thriving community centered around self-improvement, spiritual exploration, and business acumen.",
+      "Through my journey, I've devoured books on self-development, spirituality, business, and influence — and I'm excited to share my knowledge with you. My mission is to inspire and equip you to become the best version of yourself.",
+      "In this space, we'll explore the intersection of faith, personal growth, and professional success. Be active, engage with the content, and connect with like-minded individuals who share your passions."
+    ],
+    "pillars": [
+      {
+        "icon": "cross",
+        "title": "Faith",
+        "text": "A heart for Jesus sits at the centre, not at the edge."
+      },
+      {
+        "icon": "rise",
+        "title": "Personal growth",
+        "text": "All shades of growth at once, never one area at a time."
+      },
+      {
+        "icon": "target",
+        "title": "Professional success",
+        "text": "Brands built, leads nurtured, leadership learned."
+      }
+    ]
+  },
+  "branches": [
+    {
+      "slug": "leathcity",
+      "name": "LeathCity",
+      "kind": "Community",
+      "icon": "people",
+      "color": "#FF2E9E",
+      "image": "/img/leathcity.webp",
+      "crest": "/img/crest.webp",
+      "tagline": "Building Creatives into sustainable results…",
+      "short": "Three Cores. Lifetime access. Activators.",
+      "intro": "LeathCity is the paid community at the centre of the Leathrock world. Members are called Activators. Classes run live, correction is direct, and access is for life once your payment is complete.",
+      "mission": [
+        "Our mission is to cultivate a community of influential entrepreneurs by fostering personal and professional development through spiritual, emotional, and intellectual growth.",
+        "We strive to empower aspiring influencers with tools and resources that help them build their personal brand, visibility, and impact so they can create positive change in their communities.",
+        "We are committed to equipping entrepreneurs with the knowledge, skills, and mindset needed to become self-aware, community-focused leaders with a lasting impact.",
+        "Our mission is to transform the entrepreneurial landscape by cultivating a community of self-aware, impactful, and influential leaders through comprehensive programs that focus on holistic personal and professional development.",
+        "Take community members on a journey of influence and leadership."
+      ],
+      "highlights": [
+        {
+          "icon": "inf",
+          "title": "Lifetime access",
+          "text": "Once your payment is complete, you're in for good."
+        },
+        {
+          "icon": "people",
+          "title": "Live night classes",
+          "text": "Sessions run late, and members ask for more of them."
+        },
+        {
+          "icon": "lock",
+          "title": "Rate-lock entry",
+          "text": "₦5,000 fixes your price before the fee rises."
+        },
+        {
+          "icon": "stage",
+          "title": "Activators' Hangout",
+          "text": "The community meets in person, not only online."
+        }
+      ],
+      "cores": [
+        {
+          "name": "Illumination Core",
+          "text": "The entry track. Can be held on its own, and it is the only Core you can move up from.",
+          "rules": [
+            [
+              "Illumination Core on its own",
+              true
+            ],
+            [
+              "Illumination + El-Activator Core",
+              true
+            ],
+            [
+              "Move up: Illumination → Strategy",
+              true
+            ],
+            [
+              "Illumination + Strategy at the same time",
+              false
+            ]
+          ]
+        },
+        {
+          "name": "Strategy Core",
+          "text": "The execution track. Can be held on its own. You move here from Illumination — you don't stack the two.",
+          "rules": [
+            [
+              "Strategy Core on its own",
+              true
+            ],
+            [
+              "Strategy + El-Activator Core",
+              true
+            ],
+            [
+              "Arriving from Illumination Core",
+              true
+            ],
+            [
+              "Illumination + Strategy at the same time",
+              false
+            ]
+          ]
+        },
+        {
+          "name": "El-Activator Core",
+          "text": "The spiritual arm of the community. Open to everyone interested, but never bought alone — you must already hold Illumination or Strategy.",
+          "rules": [
+            [
+              "Illumination + El-Activator Core",
+              true
+            ],
+            [
+              "Strategy + El-Activator Core",
+              true
+            ],
+            [
+              "El-Activator Core on its own",
+              false
+            ]
+          ]
+        }
+      ],
+      "coreNote": "Balanced people are being built. You can't be spiritual with your goals without the required strategies. Failure would be inevitable, and vice versa.",
+      "join": {
+        "heading": "How to join",
+        "steps": [
+          {
+            "n": "01",
+            "title": "Start the lock",
+            "text": "A first payment of ₦5,000 or more fixes your access fee at today's rate."
+          },
+          {
+            "n": "02",
+            "title": "Rate secured",
+            "text": "Future increases don't apply to you. You keep the fee you locked."
+          },
+          {
+            "n": "03",
+            "title": "Pay at your pace",
+            "text": "Spread it across weeks or months. There's no deadline — but don't stall."
+          },
+          {
+            "n": "04",
+            "title": "Lifetime access",
+            "text": "Access opens once payment is complete, and it stays open."
+          }
+        ],
+        "note": "The current access fee and per-Core pricing are confirmed directly before you pay.",
+        "wa": "I'd like to join LeathCity. Please send me the current access fee and how to start my rate lock."
+      },
+      "faqs": [
+        [
+          "Can I pay in installments?",
+          "Yes."
+        ],
+        [
+          "Will I have access only after I've completed my payment?",
+          "Yes."
+        ],
+        [
+          "What is the least I can lock a rate with?",
+          "For now, ₦5,000 or more."
+        ],
+        [
+          "Do I have a time frame to complete my payment?",
+          "No — you can spread it across weeks and months. However, don't stall. You would be missing out on a lot."
+        ],
+        [
+          "Can I join the two Cores together?",
+          "No. You can only move from Illumination Core to Strategy Core."
+        ],
+        [
+          "Can I join the El-Activator Core alone?",
+          "No."
+        ],
+        [
+          "If the community gets temporarily locked while I'm paying in installments, can I continue?",
+          "Yes. If you've started paying in installments, you can continue during the lock-in."
+        ],
+        [
+          "If the access fee increases from the one I locked, am I on the new one?",
+          "No. You'd be working with the old access fee that you locked."
+        ],
+        [
+          "If I lock the rate with a part payment, am I starting all over?",
+          "No. Your remaining balance is simply the rest of the locked fee."
+        ],
+        [
+          "Is it lifetime access?",
+          "Yes."
+        ],
+        [
+          "Who should desire LeathCity?",
+          "If you own a brand and want to be better, or want to build one. If you're building something solid around your purpose. If you want to learn leadership for effectiveness sake. If you want to improve personally — communication, and the dispensation of what you have to offer. If you want spiritual growth. If you have a vision you need to strategically build on."
+        ]
+      ]
+    },
+    {
+      "slug": "leathroom",
+      "name": "Leathroom",
+      "kind": "Depth",
+      "icon": "door",
+      "color": "#F5C518",
+      "image": "/img/roomflyer.webp",
+      "crest": "/img/roomlogo.webp",
+      "tagline": "…depth over noise",
+      "short": "The conditioning and re-conditioning room.",
+      "intro": "Leathroom is where your thinking gets challenged faster than your excuses. A room where half-baked ideas are exposed, assumptions get questioned, and you're forced to think better and ask better questions.",
+      "mission": [],
+      "highlights": [
+        {
+          "icon": "door",
+          "title": "Conditioning room",
+          "text": "Conditioning and re-conditioning, session by session."
+        },
+        {
+          "icon": "rise",
+          "title": "All shades of growth",
+          "text": "Never one area at a time — that gets you old before it gets you results."
+        },
+        {
+          "icon": "lock",
+          "title": "Short windows",
+          "text": "Subscription opens briefly. The free channel tells you when."
+        },
+        {
+          "icon": "flame",
+          "title": "Nothing revealed early",
+          "text": "Topics stay hidden until the session, so nobody cherry-picks."
+        }
+      ],
+      "defs": [
+        [
+          "What it is",
+          "The Conditioning and Re-Conditioning room. Where half-baked ideas are exposed, assumptions get questioned, and you're forced to think better and ask better questions."
+        ],
+        [
+          "Who it's for",
+          "Those who desire all shades of growth and strategies. A strategic way of speaking only to those who desire to see, hear, know and understand."
+        ],
+        [
+          "Why all at once",
+          "Leathroom exposes and activates all shades of growth without you feeling like you're growing in one part more than the others."
+        ],
+        [
+          "How it runs",
+          "A subscription — monthly or bi-monthly, depending on how Leathrock desires to host them. A free channel signals when the next window opens."
+        ],
+        [
+          "The rules",
+          "Topics are not revealed before a session. First-edition subscribers keep the launch rate when the price later rises."
+        ]
+      ],
+      "cores": [],
+      "coreNote": "",
+      "join": {
+        "heading": "How to join",
+        "steps": [
+          {
+            "n": "01",
+            "title": "Join the free channel",
+            "text": "It signals when the next subscription window opens."
+          },
+          {
+            "n": "02",
+            "title": "Subscribe in the window",
+            "text": "Windows are short. Monthly or bi-monthly, depending on how it's hosted."
+          },
+          {
+            "n": "03",
+            "title": "Lock the launch rate",
+            "text": "First-edition subscribers keep their rate when the price rises."
+          },
+          {
+            "n": "04",
+            "title": "Show up",
+            "text": "Topics aren't revealed beforehand. You come for all of it."
+          }
+        ],
+        "note": "Entry is limited to people already inside the Leathrock space.",
+        "wa": "I'd like to join Leathroom. Please send me the free channel and the next subscription window."
+      },
+      "faqs": [
+        [
+          "How often does it run?",
+          "Monthly or bi-monthly, depending on how Leathrock desires to host them."
+        ],
+        [
+          "Why aren't the topics announced?",
+          "So you don't do selective breeding — picking only the areas you already like."
+        ],
+        [
+          "Can anyone subscribe?",
+          "Entry is limited to people already inside the Leathrock space."
+        ],
+        [
+          "What happens if the price rises?",
+          "If you subscribed to the first edition, you keep the launch rate."
+        ]
+      ]
+    },
+    {
+      "slug": "events",
+      "name": "Events",
+      "kind": "Gatherings",
+      "icon": "stage",
+      "color": "#FFA23A",
+      "image": "/img/women.webp",
+      "crest": "",
+      "tagline": "Where faith meets business excellence",
+      "short": "El-Preneur and the Leathrock gatherings.",
+      "intro": "Leathrock runs live gatherings through the year — the biggest of them is El-Preneur, an annual overnight conference where entrepreneurs, creatives and innovators meet for a fusion of spiritual growth and business insight.",
+      "mission": [],
+      "highlights": [],
+      "defs": [],
+      "cores": [],
+      "coreNote": "",
+      "join": {
+        "heading": "How to take part",
+        "steps": [
+          {
+            "n": "01",
+            "title": "Join the group",
+            "text": "Each edition has its own group where dates and details are released."
+          },
+          {
+            "n": "02",
+            "title": "Watch for the date",
+            "text": "El-Preneur runs once a year, overnight."
+          },
+          {
+            "n": "03",
+            "title": "Come ready",
+            "text": "Prayer, worship, business sessions and networking, back to back."
+          }
+        ],
+        "note": "Dates for the next edition are announced in the El-Preneur group.",
+        "wa": "I'd like to attend the next Leathrock event. Please let me know when the next edition is."
+      },
+      "faqs": []
+    }
+  ],
+  "events": [
+    {
+      "slug": "el-preneur",
+      "title": "El-Preneur",
+      "edition": "Annual",
+      "status": "past",
+      "dateText": "",
+      "venue": "Overnight · online",
+      "tagline": "Where faith meets business excellence",
+      "summary": "More than a conference — a sacred space where faith and business converge. El-Preneur weaves together prayer sessions, inspiring testimonials and expert-led webinars, overnight, once a year.",
+      "pillars": [
+        {
+          "icon": "cross",
+          "title": "Prayer",
+          "text": "Inspirational prayer sessions that open the room."
+        },
+        {
+          "icon": "flame",
+          "title": "Worship",
+          "text": "Worship as part of the working night, not an add-on."
+        },
+        {
+          "icon": "target",
+          "title": "Business",
+          "text": "Expert-led webinars on business growth."
+        },
+        {
+          "icon": "rise",
+          "title": "Innovation",
+          "text": "Sessions on building what doesn't exist yet."
+        },
+        {
+          "icon": "people",
+          "title": "Networking",
+          "text": "Time with fellow entrepreneurs and creatives."
+        },
+        {
+          "icon": "stage",
+          "title": "Transformation",
+          "text": "Real-life testimonials of businesses changed."
+        }
+      ],
+      "link": "https://chat.whatsapp.com/JuEzMW8Bf50K54bYRsfjKB?s=cl&p=a&ilr=4",
+      "linkLabel": "Join the El-Preneur group",
+      "image": "/img/tlnac.webp",
+      "reviews": []
+    },
+    {
+      "slug": "why-women-struggle-to-lead-men",
+      "title": "Why Do Women Struggle To Lead Men?",
+      "edition": "3-day session",
+      "status": "past",
+      "dateText": "9th – 11th July",
+      "venue": "WhatsApp Status & Google Meet",
+      "tagline": "For every woman who leads, or wants to lead well",
+      "summary": "A three-day session on authority, standards and the balance between too harsh and too soft. Hosted by Leathrock with guest GlobaVox. It became the Women Leadership Training course.",
+      "pillars": [
+        {
+          "icon": "target",
+          "title": "Authority",
+          "text": "What authority looks like for you as a woman."
+        },
+        {
+          "icon": "rise",
+          "title": "Standards",
+          "text": "How to set standards and hold men accountable."
+        },
+        {
+          "icon": "flame",
+          "title": "Not apology",
+          "text": "How to lead from authority, not apology."
+        },
+        {
+          "icon": "people",
+          "title": "The balance",
+          "text": "Too harsh vs too soft, and where the line sits."
+        }
+      ],
+      "link": "",
+      "linkLabel": "",
+      "image": "/img/women.webp",
+      "reviews": []
+    }
+  ],
+  "courses": [
+    {
+      "slug": "tlnac",
+      "title": "TLNAC",
+      "subtitle": "The Lead Nurturing Audio Course",
+      "price": 30000,
+      "image": "/img/tlnac.webp",
+      "short": "The psychology of nurturing leads with integrity.",
+      "summary": "This isn't about tricks or tactics. It's about thinking clearly about your audience and delivering value at every stage.",
+      "learn": [
+        "The psychology of effective lead nurturing",
+        "How to build trust through consistent, valuable communication",
+        "Systems for tracking and timing your outreach",
+        "How to qualify prospects without wasting their time",
+        "Converting interest into committed customers"
+      ],
+      "get": [
+        "4 audio lessons — more than 3 hours total",
+        "Lifetime access to course materials"
+      ],
+      "forWho": "Entrepreneurs, sales professionals, personal brands and business builders who want to nurture leads with integrity while maintaining systems that actually work.",
+      "curriculum": [
+        [
+          "01 · The Basics",
+          "After lead generation, what's next? · Building an effective relationship with your leads · Common pain points to address in lead nurturing"
+        ],
+        [
+          "02 · Engagement & Conversion",
+          "Understanding why leads don't engage · How to quicken engagement · The transition from engagement to a reasonable buying action"
+        ],
+        [
+          "03 · Qualifying Leads",
+          "Lead qualification and segmentation · Targeted content for different segments · Crafting content that resonates with your niche · Lead temperatures and how to nurture them"
+        ],
+        [
+          "04 · Follow Up Strategy",
+          "Timely and relevant follow-up · Lead seduction strategy · Improving communication and collaboration · Building a comprehensive lead nurturing strategy"
+        ],
+        [
+          "05 · The Advanced",
+          "Perception building and authoritative positioning"
+        ]
+      ],
+      "meta": [
+        "4 lessons · 3h+",
+        "Lifetime access",
+        "Audio"
+      ]
+    },
+    {
+      "slug": "women-leadership",
+      "title": "Women Leadership Training",
+      "subtitle": "Lead from authority, not apology",
+      "price": 10000,
+      "image": "/img/women.webp",
+      "short": "Authority without mimicry, presence without apology.",
+      "summary": "Leadership presence isn't about gender. It's about clarity, conviction, and the discipline to lead with authenticity — not apology. This course examines the real obstacles women face when leading teams that include men, and how to overcome them through genuine leadership rather than mimicry or compensation.",
+      "learn": [
+        "The psychological barriers women face in leadership positions",
+        "How to establish authority without compromising authenticity",
+        "Communication strategies that command respect without aggression",
+        "Building teams where gender doesn't determine capability",
+        "Managing the invisible pressure and imposter syndrome",
+        "Decision-making frameworks that cut through self-doubt",
+        "How to lead men — and anyone — by leading right, not differently"
+      ],
+      "get": [
+        "Audio lessons — 3 hours total",
+        "Leadership frameworks and templates",
+        "Real case studies of women leading effectively",
+        "Lifetime access to course materials"
+      ],
+      "forWho": "Women in management, founders, executives and emerging leaders who want to lead with clarity and confidence — not by fitting into someone else's mold.",
+      "curriculum": [],
+      "meta": [
+        "3h audio",
+        "Lifetime access",
+        "Frameworks"
+      ]
+    }
+  ],
+  "voices": [
+    {
+      "name": "Limi's Dough",
+      "quote": "I became more serious since when I joined LeathCity.",
+      "mine": false
+    },
+    {
+      "name": "An Activator",
+      "quote": "It just chases the laziness, imposter syndrome and creative block away. Now I'm strengthened.",
+      "mine": false
+    },
+    {
+      "name": "Eeritage",
+      "quote": "Thank you for been intentional about my growth.",
+      "mine": false
+    },
+    {
+      "name": "Chief",
+      "quote": "I'm rooting for you.",
+      "mine": true
+    },
+    {
+      "name": "An Activator",
+      "quote": "I am shamelessly me around you. I don't have to put up a certain part out to avoid getting scolded. Even when you have to correct a thing, the approach is always lovely.",
+      "mine": false
+    },
+    {
+      "name": "An Activator",
+      "quote": "Thank you Chief for the teachings, corrections and directions. I know it's little compared to the value I'm getting but I know one day I'll make you proud.",
+      "mine": false
+    },
+    {
+      "name": "An Activator",
+      "quote": "I told her to come and join leathcity — she was looking at me like I have gone nut. She's like no WhatsApp group can give me that energy o.",
+      "mine": false
+    },
+    {
+      "name": "Chief",
+      "quote": "I've not even started taking you. You're already catching it.",
+      "mine": true
+    },
+    {
+      "name": "An Activator",
+      "quote": "Chief Activator operates on multiple levels, driving profound growth and change, while Leathrock merely skims the surface. This distinction has significant consequences, and I'm grateful for the clarity.",
+      "mine": false
+    },
+    {
+      "name": "An Activator",
+      "quote": "To think that I had ministration tonight. I was in rehearsal all through today. I've been shouting leathcity to my team members since morning. I'm glad I made it to tonight's class.",
+      "mine": false
+    }
+  ]
+}
