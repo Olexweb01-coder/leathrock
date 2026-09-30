@@ -148,8 +148,9 @@ export default function Hero() {
         </div>
         <div className="h-chips">
           <span className="chip"><Icon name="cross" />Faith</span>
-          <span className="chip"><Icon name="rise" />Growth</span>
-          <span className="chip"><Icon name="target" />Success</span>
+          <span className="chip"><Icon name="spark" />Creativity</span>
+          <span className="chip"><Icon name="compass" />Leadership</span>
+          <span className="chip"><Icon name="book" />Wisdom</span>
         </div>
         <div className="h-acts">
           <Link className="btn solid" href="/branches"><span className="fill" /><span>Enter the world</span><Icon name="arw" /></Link>

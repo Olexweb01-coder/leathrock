@@ -27,7 +27,7 @@ export default function Footer() {
               <img src="/img/mark.webp" alt="" width={38} height={25} style={{ width: 38 }} />
               <b>LEATHROCK</b>
             </HomeLink>
-            <p style={{ fontSize: 13.5, maxWidth: '30ch' }}>Faith, personal growth and professional success.</p>
+            <p style={{ fontSize: 13.5, maxWidth: '30ch' }}>Faith, creativity, leadership and wisdom.</p>
             <p style={{ fontSize: 13, marginTop: 10 }}>
               <a href={`tel:${site.phoneRaw}`}>{site.phone}</a><br />
               <a href={`mailto:${site.email}`}>{site.email}</a>

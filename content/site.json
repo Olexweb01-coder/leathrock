@@ -13,12 +13,12 @@
     "luminEvent": "https://luminevent.com/events/ba1dc7f6-546c-459f-8f73-6bf3dbb52445"
   },
   "about": {
-    "heading": "Faith, growth and strategy — never separated.",
+    "heading": "Faith, creativity, leadership and wisdom — never separated.",
     "lines": [
       "Welcome to my corner of the world. My name is Oluwatimilehin Joshua Adedara. I'm the Visionary behind The Leathrock brand — a passionate advocate for personal, professional and spiritual growth, and a creative dedicated to helping others find their path(s) to purpose and achievement.",
       "With a heart for Jesus and a love for empowering young people, I've founded not one, but two impactful initiatives: Fortes, a hub for general growth and development, and LeathCity, a thriving community centered around self-improvement, spiritual exploration, and business acumen.",
       "Through my journey, I've devoured books on self-development, spirituality, business, and influence — and I'm excited to share my knowledge with you. My mission is to inspire and equip you to become the best version of yourself.",
-      "In this space, we'll explore the intersection of faith, personal growth, and professional success. Be active, engage with the content, and connect with like-minded individuals who share your passions."
+      "In this space, we'll explore the intersection of faith, creativity, leadership, and wisdom. Be active, engage with the content, and connect with like-minded individuals who share your passions."
     ],
     "pillars": [
       {
@@ -27,14 +27,19 @@
         "text": "A heart for Jesus sits at the centre, not at the edge."
       },
       {
-        "icon": "rise",
-        "title": "Personal growth",
-        "text": "All shades of growth at once, never one area at a time."
+        "icon": "spark",
+        "title": "Creativity",
+        "text": "Fresh ideas and bold expression, built to serve a purpose."
       },
       {
-        "icon": "target",
-        "title": "Professional success",
+        "icon": "compass",
+        "title": "Leadership",
         "text": "Brands built, leads nurtured, leadership learned."
+      },
+      {
+        "icon": "book",
+        "title": "Wisdom",
+        "text": "Knowledge applied well, with understanding and strategy."
       }
     ]
   },

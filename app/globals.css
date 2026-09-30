@@ -120,7 +120,7 @@ p{margin:0 0 14px;max-width:56ch;color:var(--dim)}
   -webkit-mask-image:radial-gradient(closest-side,#000 40%,transparent 82%);mask-image:radial-gradient(closest-side,#000 40%,transparent 82%)}
 .h-floor{position:absolute;left:50%;bottom:10%;width:min(86vw,860px);height:190px;transform:translateX(-50%);z-index:1;pointer-events:none;
   background:radial-gradient(closest-side,rgba(240,162,104,.3),transparent 72%);filter:blur(22px)}
-.h-fig{position:absolute;left:50%;bottom:clamp(26px,7svh,86px);height:min(78svh,740px);width:auto;max-width:none;z-index:2;transform:translateX(-50%);pointer-events:none;
+.h-fig{--lift:clamp(28px,9svh,90px);position:absolute;left:50%;bottom:calc(clamp(26px,7svh,86px) + var(--lift));height:min(78svh,740px);width:auto;max-width:none;z-index:2;transform:translateX(-50%);pointer-events:none;
   -webkit-mask-image:linear-gradient(to bottom,#000 76%,transparent 99%);mask-image:linear-gradient(to bottom,#000 76%,transparent 99%);
   filter:drop-shadow(0 34px 70px rgba(0,0,0,.65)) contrast(1.05)}
 .h-scrim{position:absolute;inset:auto 0 0;height:56%;z-index:3;pointer-events:none;background:linear-gradient(to top,#100702 8%,rgba(16,7,2,.78) 34%,transparent 100%)}
@@ -151,12 +151,16 @@ p{margin:0 0 14px;max-width:56ch;color:var(--dim)}
 .chip .ico{width:15px;height:15px;color:var(--rock-soft)}
 @media (prefers-reduced-motion:no-preference){
   .chip{animation:breathe 5.6s cubic-bezier(.4,0,.2,1) infinite}
-  .chip:nth-child(2){animation-delay:.75s}.chip:nth-child(3){animation-delay:1.5s}
+  .chip:nth-child(2){animation-delay:.75s}.chip:nth-child(3){animation-delay:1.5s}.chip:nth-child(4){animation-delay:2.25s}
+}
+@media (max-width:560px){
+  .h-chips{display:grid;grid-template-columns:repeat(2,max-content);justify-content:center;gap:8px}
+  .chip{padding:8px 13px;font-size:10.5px;letter-spacing:.11em;justify-content:center}
 }
 @keyframes breathe{0%,100%{transform:scale(1)}48%{transform:scale(1.045)}}
 .h-acts{display:flex;flex-wrap:wrap;justify-content:center;gap:11px;margin-top:22px}
-@media (max-width:760px){.h-fig{height:min(54svh,430px);bottom:clamp(18px,5svh,52px)}}
-@media (max-height:780px){.h-fig{height:min(62svh,520px);bottom:clamp(14px,4svh,44px)}}
+@media (max-width:760px){.h-fig{height:min(54svh,430px);bottom:calc(clamp(18px,5svh,52px) + var(--lift))}}
+@media (max-height:780px){.h-fig{height:min(62svh,520px);bottom:calc(clamp(14px,4svh,44px) + var(--lift))}}
 
 /* ---------- PAGE HEAD ---------- */
 .phead{position:relative;padding:calc(76px + var(--band)) 0 var(--band);overflow:hidden}
